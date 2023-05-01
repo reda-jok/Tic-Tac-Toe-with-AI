@@ -1,0 +1,100 @@
+tic-tac-toe/tic-tac-toe/
+│
+├── frontends/
+│   │
+│   └── console/
+│       ├── __init__.py
+│       ├── __main__.py
+│       ├── args.py
+│       ├── cli.py
+│       ├── players.py
+│       └── renderers.py
+│
+└── library/
+    │
+    ├── src/
+    │   │
+    │   └── tic_tac_toe/
+    │       │
+    │       ├── game/
+    │       │   ├── __init__.py
+    │       │   ├── engine.py
+    │       │   ├── players.py
+    │       │   └── renderers.py
+    │       │
+    │       ├── logic/
+    │       │   ├── __init__.py
+    │       │   ├── exceptions.py
+    │       │   ├── minimax.py
+    │       │   ├── models.py
+    │       │   └── validators.py
+    │       │
+    │       └── __init__.py
+    │
+    └── pyproject.toml\
+│
+├── frontends/
+│   │
+│   └── console/
+│       ├── __init__.py
+│       ├── __main__.py
+│       ├── args.py
+│       ├── cli.py
+│       ├── players.py
+│       └── renderers.py
+│
+└── library/
+    │
+    ├── src/
+    │   │
+    │   └── tic_tac_toe/
+    │       │
+    │       ├── game/
+    │       │   ├── __init__.py
+    │       │   ├── engine.py
+    │       │   ├── players.py
+    │       │   └── renderers.py
+    │       │
+    │       ├── logic/
+    │       │   ├── __init__.py
+    │       │   ├── exceptions.py
+    │       │   ├── minimax.py
+    │       │   ├── models.py
+    │       │   └── validators.py
+    │       │
+    │       └── __init__.py
+    │
+    └── pyproject.tomltic-tac-toe/
+│
+├── frontends/
+│   │
+│   └── console/
+│       ├── __init__.py
+│       ├── __main__.py
+│       ├── args.py
+│       ├── cli.py
+│       ├── players.py
+│       └── renderers.py
+│
+└── library/
+    │
+    ├── src/
+    │   │
+    │   └── tic_tac_toe/
+    │       │
+    │       ├── game/
+    │       │   ├── __init__.py
+    │       │   ├── engine.py
+    │       │   ├── players.py
+    │       │   └── renderers.py
+    │       │
+    │       ├── logic/
+    │       │   ├── __init__.py
+    │       │   ├── exceptions.py
+    │       │   ├── minimax.py
+    │       │   ├── models.py
+    │       │   └── validators.py
+    │       │
+    │       └── __init__.py
+    │
+    └── pyproject.toml
